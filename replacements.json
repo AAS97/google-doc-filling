@@ -1,0 +1,5 @@
+[
+  {"tag": "{{Nom}}", "text": "Jack"},
+  {"tag": "{{Prénom}}", "text": "Daniels"},
+  {"tag": "{{Date de naissance}}", "text": "04/07/1897"}
+]
