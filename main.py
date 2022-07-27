@@ -13,7 +13,7 @@ from googleapiclient.errors import HttpError
 SCOPES = ['https://www.googleapis.com/auth/documents', 'https://www.googleapis.com/auth/drive']
 
 # The ID of a sample document.
-TEMPLATE_ID = '1g0ScCnIkWBWxTc6BKkD_-fLm430Xiikk6zpAxds4WvY'
+TEMPLATE_ID = 'placeholder' ## Replace with appropriate id from document url
 
 
 def duplicateDocument(templateId, title = "New Document"):	
